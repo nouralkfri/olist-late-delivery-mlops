@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/
+archive/
+archive.zip
+python-manager-26.3.msix
+mlruns/
+logs/
+.pytest_cache/
