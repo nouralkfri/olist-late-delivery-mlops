@@ -7,3 +7,5 @@ joblib
 pyyaml
 fastapi
 uvicorn
+pytest
+mlflow
